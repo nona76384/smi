@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "blocked": "off",
-    "new_package": ""
+    "blocked": "on",
+    "new_package": "com.smile.androuiad.app"
   }
 }
